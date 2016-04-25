@@ -1,7 +1,7 @@
 {
-    "name": "irazasyed/jwt-auth-guard",
+    "name": "saeidrp/jwt-auth-guard",
     "description": "JWT Auth Guard for Laravel and Lumen",
-    "keywords": ["irazasyed", "laravel jwt auth guard", "lumen jwt auth guard", "jwt auth guard", "jwt guard"],
+    "keywords": ["saeidrp", "laravel jwt auth guard", "lumen jwt auth guard", "jwt auth guard", "jwt guard"],
     "homepage": "https://github.com/irazasyed/laravel-jwt-guard",
     "license": "MIT",
     "authors": [
