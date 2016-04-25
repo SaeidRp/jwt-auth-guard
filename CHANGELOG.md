@@ -4,6 +4,9 @@ All Notable changes to this project will be documented in this file.
 
 ## (Unreleased)
 
+### Removed
+- Remove `$this->jwt->check()` fix method [check] does not exist error 
+
 ### Added
 - `requireToken()` Sync with Parent.
 
