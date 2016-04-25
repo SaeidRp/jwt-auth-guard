@@ -17,7 +17,7 @@
 Via Composer
 
 ``` bash
-$ composer require SaeidRp/jwt-auth-guard
+$ composer require saeidrp/jwt-auth-guard
 ```
 
 ### Add the Service Provider
