@@ -1,6 +1,6 @@
 <?php
 
-namespace Irazasyed\JwtAuthGuard;
+namespace SaeidRp\JwtAuthGuard;
 
 use Tymon\JWTAuth\JWTAuth;
 use Illuminate\Http\Request;
