@@ -1,6 +1,6 @@
 <?php
 
-namespace Irazasyed\JwtAuthGuard;
+namespace SaeidRp\JwtAuthGuard;
 
 use Irazasyed\JwtAuthGuard\JwtAuthGuard;
 use Illuminate\Support\ServiceProvider;
